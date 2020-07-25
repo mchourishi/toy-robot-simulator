@@ -1,0 +1,21 @@
+{
+    "name": "mukta/toy-robo",
+    "description": "A Toy Robot Simulator.",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ToyRobo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mukta Patel",
+            "email": "mchourishi@gmail.com"
+        }
+    ],
+    "require": {}
+}
